@@ -1,0 +1,19 @@
+{
+  "name": "easecss",
+  "version": "1.0.0",
+  "description": "To make css stylings easier",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tailwindcss -i src/style.css -o dist/style.css && cp src/index.js dist/index.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M23jJohn/easecss.git"
+  },
+  "author": "Michael John Sabellano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M23jJohn/easecss/issues"
+  },
+  "homepage": "https://github.com/M23jJohn/easecss#readme"
+}
