@@ -1,6 +1,6 @@
 {
-  "name": "flarecss",
-  "version": "1.0.1",
+  "name": "stylo",
+  "version": "1.0.0",
   "description": "To make css stylings easier",
   "main": "src/index.js",
   "scripts": {
