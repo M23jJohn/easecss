@@ -1,10 +1,10 @@
 {
-  "name": "stylo",
-  "version": "1.0.0",
+  "name": "stylocss",
+  "version": "1.0.1",
   "description": "To make css stylings easier",
   "main": "src/index.js",
   "scripts": {
-    "build": "tailwindcss -i src/style.css -o dist/style.css && cp src/index.js dist/index.js"
+    "build": "tailwindcss -i src/styles.css -o dist/styles.css && cp src/index.js dist/index.js"
 },
   "repository": {
     "type": "git",
